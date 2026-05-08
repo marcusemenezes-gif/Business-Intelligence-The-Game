@@ -1,5 +1,4 @@
-[![Texto Alternativo](Gemini_Generated_Image_giwvejgiwvejgiwv.png)]
-um jogo baseado no tema Business Intelligence, feito por Logan e Marcus.
+Um jogo baseado no tema Business Intelligence, feito por Logan e Marcus.
 
 INSTRUÇÕES PARA BAIXAR O JOGO:
 1-Clique no nome "game.js" na aba de arquivos do repositório.
