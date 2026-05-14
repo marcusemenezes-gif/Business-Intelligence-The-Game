@@ -13,3 +13,14 @@ INSTRUÇÕES PARA BAIXAR O JOGO:
 
 OBSERVAÇÕES:
 O navegador pode dar aviso dizendo que o "game.js" ou "index.html" pode danificar o computador, e um mecanismo de segurança para qualquer arquivo feito de JavaScript para proteger o computador, clique em "manter", o código completo do jogo está disponível nos 2 arquivos para verificação.
+
+COMO JOGAR?
+
+Comece apertando espaço, o jogo vai começar, o jogo e simples:
+
+COLETE AS PASTAS AMARELAS COM AURA VERDE. 
+
+Elas contribuem com a receita da empresa, se trata de dados de usuários que causam decisões boas para a empresa.
+
+EVITE OS BLOCOS VERMELHOS, ELES CAUSAM PREJUÍZO!
+Os blocos vermelhos são dados corrompidos e hacks, evite pegar eles para o bem de sua empresa.
