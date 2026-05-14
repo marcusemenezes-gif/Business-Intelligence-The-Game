@@ -2,29 +2,34 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <title>Business Intelligence: The Game</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BI-Sprint</title>
+    <link rel="icon" type="image/png" href="logo.png">
     <style>
-        body { 
-            display: flex; 
-            justify-content: center; 
-            align-items: center; 
-            height: 100vh; 
+        /* Remove margens e garante que o corpo ocupe tudo */
+        body, html { 
             margin: 0; 
-            background-color: #1a1a1a; /* Fundo mais escuro para destaque */
-            overflow: hidden;
-            font-family: Arial, sans-serif;
+            padding: 0; 
+            width: 100%; 
+            height: 100%; 
+            overflow: hidden; 
+            background: #05070a; 
+            display: flex;
+            justify-content: center;
+            align-items: center;
         }
+
+        /* O Canvas agora se ajusta à largura ou altura disponível */
         canvas { 
-            border: 4px solid #333; 
-            background: #f4f4f4; 
-            box-shadow: 0 0 20px rgba(0,0,0,0.5);
-            max-width: 95vw; /* Garante que caiba no Edge */
-            max-height: 85vh;
+            display: block;
+            background: #000;
+            box-shadow: 0 0 30px rgba(0, 242, 255, 0.3);
+            cursor: pointer; /* Indica que é clicável para Fullscreen */
         }
     </style>
 </head>
 <body>
-    <canvas id="gameCanvas" width="1200" height="600"></canvas>
+    <canvas id="gameCanvas"></canvas>
     <script src="game.js"></script>
 </body>
 </html>
